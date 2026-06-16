@@ -8,21 +8,16 @@ A 3-page interactive Power BI dashboard analyzing Virat Kohli's complete cricket
 ## 🖼️ Dashboard Preview
 
 ### Page 1 — Career Overview
-![Overview](Virat%20Kohli%20Overview.png)
+![Overview](https://raw.githubusercontent.com/Srini1817/power-bi-portfolio/main/Virat-Kohli-Cricket-Dashboard/Virat%20Kohli%20Overview.png)
 
 ### Page 2 — ODI ICC Knockouts Insights
-![ODI ICC KO](ODI%20ICC%20KO%20Insights.png)
+![ODI ICC KO](https://raw.githubusercontent.com/Srini1817/power-bi-portfolio/main/Virat-Kohli-Cricket-Dashboard/ODI%20ICC%20KO%20Insights.png)
 
 ### Page 2 — T20 ICC Knockouts Insights
-![T20 ICC KO](T20%20ICC%20KO%20Insights.png)
+![T20 ICC KO](https://raw.githubusercontent.com/Srini1817/power-bi-portfolio/main/Virat-Kohli-Cricket-Dashboard/T20%20ICC%20KO%20Insights.png)
 
 ### Page 3 — Top 3 Innings
-![Top 3 Innings](Top%203%20Innings.png)
-
----
-
-## 📥 Download
-[Download .pbix file](Virat%20Kohli%20Dashboard.pbix)
+![Top 3 Innings](https://raw.githubusercontent.com/Srini1817/power-bi-portfolio/main/Virat-Kohli-Cricket-Dashboard/Top%203%20Innings.png)
 ---
 
 ## 📌 Key Features
